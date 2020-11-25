@@ -19,9 +19,9 @@ function Header() {
         <SearchIcon className="header__inputButton" />
         </div>
         <div className="header__icons">
-        <VideoCallIcon />
-        <AppsIcon />
-        <NotificationsIcon />
+        <VideoCallIcon className="header__icon" />
+        <AppsIcon className="header__icon" />
+        <NotificationsIcon className="header__icon" />
         <Avatar alt="sven" src="https://avatars0.githubusercontent.com/u/60977987?s=400&u=2f1e1acb8dc2d0c86d987c0e9f498a76a6f0debf&v=4" />
         </div>
        </div>
