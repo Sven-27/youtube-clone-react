@@ -12,7 +12,7 @@ function RecommendedVideos() {
                 timestamp="1 day ago"
                 channelImage="https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s176-c-k-c0x00ffffff-no-rj-mo"
                 channel="Clever Programmer"
-                image="https://i.ytimg.com/an_webp/HxvGIjINk7s/mqdefault_6s.webp?du=3000&sqp=CIm1-f0F&rs=AOn4CLBnuNvYOJJXi1mWFM3OS6OvZm1e_w"
+                image="https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CPqY__0F&rs=AOn4CLAkxq_p0i0y69HabkCgnQiFrGf3rA"
                 />
                 <VideoCard
                 title=" Your Roadmap to Becoming a YouTuber as a Developer - Day 5"
