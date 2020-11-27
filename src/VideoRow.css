@@ -30,3 +30,8 @@
     color: rgb(84, 157, 211);
 }
 
+.videoRow__subs{
+    background-color: lightgray;
+    padding: 2px;
+}
+

@@ -33,6 +33,46 @@ function SearchPage() {
            description="You can find awsome programming here"
            image="https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CPqY__0F&rs=AOn4CLAkxq_p0i0y69HabkCgnQiFrGf3rA"
            />
+
+<VideoRow
+           title=" How To Become A Successful Youtuber in less than 90 Days"
+           subs="695k"
+           views="4.4K Views"
+           timestamp="1 day ago" 
+           channel="Clever Programmer"
+           description="You can find awsome programming here"
+           image="https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CPqY__0F&rs=AOn4CLAkxq_p0i0y69HabkCgnQiFrGf3rA"
+           />
+
+<VideoRow
+           title=" How To Become A Successful Youtuber in less than 90 Days"
+           subs="695k"
+           views="4.4K Views"
+           timestamp="1 day ago" 
+           channel="Clever Programmer"
+           description="You can find awsome programming here"
+           image="https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CPqY__0F&rs=AOn4CLAkxq_p0i0y69HabkCgnQiFrGf3rA"
+           />
+
+<VideoRow
+           title=" How To Become A Successful Youtuber in less than 90 Days"
+           subs="695k"
+           views="4.4K Views"
+           timestamp="1 day ago" 
+           channel="Clever Programmer"
+           description="You can find awsome programming here"
+           image="https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CPqY__0F&rs=AOn4CLAkxq_p0i0y69HabkCgnQiFrGf3rA"
+           />
+
+<VideoRow
+           title=" How To Become A Successful Youtuber in less than 90 Days"
+           subs="695k"
+           views="4.4K Views"
+           timestamp="1 day ago" 
+           channel="Clever Programmer"
+           description="You can find awsome programming here"
+           image="https://i.ytimg.com/an_webp/NT299zIk2JY/mqdefault_6s.webp?du=3000&sqp=CPqY__0F&rs=AOn4CLAkxq_p0i0y69HabkCgnQiFrGf3rA"
+           />
             
         </div>
     )
